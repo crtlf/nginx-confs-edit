@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Nginx Confs Edit",
+          "submenu": [
+            {
+              "label": "Open Nginx conf folder",
+              "command": "nginx-confs-edit:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

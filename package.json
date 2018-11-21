@@ -1,0 +1,18 @@
+{
+  "name": "nginx-confs-edit",
+  "main": "./lib/nginx-confs-edit",
+  "version": "0.1.0",
+  "description": "Open your Nginx conf folder quickly",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "nginx-confs-edit:toggle"
+  },
+  "repository": "https://github.com/atom/nginx-confs-edit",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
